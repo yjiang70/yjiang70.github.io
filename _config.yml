@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -12,9 +13,9 @@ title                    : "Yoyo Jiang"
 title_separator          : "-"
 name                     : &name "Yoyo Jiang"
 description              : &description "personal description"
-url                      : https://yoyojiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yjiang70.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yjiang70/yoyojiang.github.io"
+repository               : "yjiang70/yjiang70.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
