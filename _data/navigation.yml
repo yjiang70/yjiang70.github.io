@@ -1,11 +1,8 @@
 # main links links
 main:
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Notes"
-    url: /notes/    
+  - title: "Talks/Notes"
+    url: /talks-notes/    
     
-  - title: "Misc"
-    url: /misc/
+  - title: "Music"
+    url: /music/

@@ -8,20 +8,20 @@ redirect_from:
 ---
 
 Hello!
-I am an undergraduate in math at Johns Hopkins University
+I'm Yoyo, an undergraduate in math at Johns Hopkins University
 going into my 4th year in fall 2025.
-Currently, I am curious about
-topics in algebraic topology, algebraic geometry
-and category theory.
-I organize the math club and undergrad seminar
-at JHU (TODO: link).
+I am still in the exploratory stage
+of developing my math interests ---
+potential areas of interest include algebraic topology, algebraic geometry and category theory.
+I organize the 
+[math club and undergrad seminar](https://math.jhu.edu/~mathclub/)
+at JHU.
 
-Outside of math, I am an amateur flutist,
+Outside of math, I am an amateur [flutist](/music),
 and I perform regularly with the Hopkins Symphony Orchestra
-as well as in various chamber groups.
-Here is a recording of my performance of
-the first movement of Reinecke concerto with HSO
-as the winner of the concerto competition in spring 2022
-(TODO: link).
+as well as in chamber settings.
+Here is a [recording](files/reinecke.mp3) of my performance of
+the first movement of Reinecke's concerto with HSO
+as one of the winners of the concerto competition in spring 2022.
 
-Here is my CV (TODO: link) (updated TODO).
+Here is my [CV](files/cv.pdf) (updated January 2024).
