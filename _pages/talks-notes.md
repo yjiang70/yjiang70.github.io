@@ -18,7 +18,7 @@ notes under construction
 slides for a talk given at the 2023
 The Young Mathematicians Conference
 and at the 2024 Mid-Atlantic Research Exchange hosted by the
-JHU applied math department
+JHU applied math department;
 [poster](/files/braidings-on-non-split-ty-poster.pdf) presented at the 
 2024 Joint Mathematics Meeting
 
