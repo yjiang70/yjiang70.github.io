@@ -14,6 +14,13 @@ Previous teachers include
 [Christian Paquette](https://christianpaquette.com/) and
 Laura Chambers.
 
+I love playing chamber music -- please reach out
+if you want to play together! I am always
+down to sightread violin parts but bonus points
+if you find something written for the flute
+([one](https://imslp.org/wiki/18_Canons_M%C3%A9lodieux,_TWV_40:118-123_(Telemann,_Georg_Philipp))
+of my favourite wind-friendly duets to play).
+
 Recent Performances
 =====
 

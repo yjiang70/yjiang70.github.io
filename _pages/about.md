@@ -12,7 +12,8 @@ I'm Yoyo, an undergraduate in math at Johns Hopkins University
 going into my 4th year in fall 2025.
 I am still in the exploratory stage
 of developing my math interests ---
-potential areas of interest include algebraic topology, algebraic geometry and category theory.
+right now I particularly enjoy learning about
+topics in algebraic topology, algebraic geometry and category theory.
 I organize the 
 [math club and undergrad seminar](https://math.jhu.edu/~mathclub/)
 at JHU.
