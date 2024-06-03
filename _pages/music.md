@@ -19,7 +19,7 @@ if you want to play together! I am always
 down to sightread violin parts but bonus points
 if you find something written for the flute
 ([one](https://imslp.org/wiki/18_Canons_M%C3%A9lodieux,_TWV_40:118-123_(Telemann,_Georg_Philipp))
-of my favourite wind-friendly duets to play).
+of my favourite duets to sightread).
 
 Recent Performances
 =====
@@ -44,4 +44,3 @@ as a part of the [Homewood Chamber Music Seminar](https://www.youtube.com/@jhuho
 [performed](https://youtu.be/NQ4lbiDNvlM?si=VDGPXtLvKcYagSBN)
 fall 2021 with Eric Lian as a part of 
 the [Homewood Chamber Music Seminar](https://www.youtube.com/@jhuhomewoodchambermusicsem9783/featured)
-
