@@ -5,8 +5,8 @@ author_profile: true
 redirect_from:
 ---
 
-In summer 2024 I participated in the [REU at UChicago](https://math.uchicago.edu/~may/REU2024/)
-under the mentorship of Prof. [Peter May](https://www.math.uchicago.edu/~may/), where I read about
+In summer 2024, I participated in the [REU at UChicago](https://math.uchicago.edu/~may/REU2024/)
+under the mentorship of [Peter May](https://www.math.uchicago.edu/~may/), where I read about
 model categories, enriched categories, and \\((\infty,1)\\)-categories with a focus
 on understanding homotopy limits and colimits.
 I am extending this reading project into a senior thesis on stable infinity categories
