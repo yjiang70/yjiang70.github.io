@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /research
 title: ""
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 In summer 2024 I participated in the [REU at UChicago](https://math.uchicago.edu/~may/REU2024/)
@@ -21,5 +19,3 @@ to classify braidings over non-split Tambara-Yamagami categories over the reals,
 which started in summer 2023 at the [Research Opportunities in Mathematics for Underrepresented Students (ROMUS)](https://math.osu.edu/research/undergraduate) program at The Ohio State University under the supervision of
 [David Penneys](https://people.math.osu.edu/penneys.2/).
 Here are some [slides](/files/braidings-on-non-split-ty-matrx.pdf) on preliminary results.
-
-TODO: talks
