@@ -3,6 +3,10 @@ permalink: /research/
 title: ""
 author_profile: true
 redirect_from:
+<<<<<<< HEAD
+=======
+    /research/
+>>>>>>> 6a9d4179cb00c4529880ca2c5b38565513f0cdc2
 ---
 
 In summer 2024 I participated in the [REU at UChicago](https://math.uchicago.edu/~may/REU2024/)

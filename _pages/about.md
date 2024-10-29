@@ -21,4 +21,4 @@ Here is a [recording](files/reinecke.mp3) of my performance of
 the first movement of Reinecke's concerto with the Hopkins Symphony Orchestra
 as one of the winners of the concerto competition in spring 2022.
 
-Here is my [CV](files/cv.pdf) (updated January 2024).
+Here is my [CV](files/cv.pdf).
