@@ -1,8 +1,9 @@
 ---
-permalink: /research
+permalink: /research/
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
+    /research/
 ---
 
 In summer 2024 I participated in the [REU at UChicago](https://math.uchicago.edu/~may/REU2024/)
