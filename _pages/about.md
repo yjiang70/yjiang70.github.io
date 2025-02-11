@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 Hello!
-I'm Yoyo, a 4th undergraduate in math at Johns Hopkins University.
+I'm Yoyo, a 4th year undergraduate in math at Johns Hopkins University.
 I am still developing my math interests ---
 right now I particularly enjoy learning about
 algebraic topology, algebraic geometry and category theory.
-I organize the 
-[math club and undergrad seminar](https://math.jhu.edu/~mathclub/)
+I used to organize the 
+[math club and undergrad seminar](https://sites.google.com/view/jhu-mathclub/)
 at JHU.
 
 Outside of math, I am an amateur [flutist](/music).

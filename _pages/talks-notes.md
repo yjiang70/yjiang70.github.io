@@ -35,7 +35,6 @@ expository (chalkboard) talk given at the JHU undergrad seminar in spring 2023
 
 Other Notes
 =====
-* [Sheaf Spaces through Kan Extensions](/files/sheaf-spaces-through-kan-extensions-draft-1.pdf),
+* [Sheaf Spaces as Kan Extensions](/files/sheaf-spaces-as-kan-extensions.pdf),
 notes I wrote up as a part of an independent study on category theory
-supervised by Emily Riehl;
-under revision
+supervised by Emily Riehl
