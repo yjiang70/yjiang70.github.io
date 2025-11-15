@@ -9,8 +9,9 @@ redirect_from:
 {% include base_path %}
 
 I am currently studying with
-[Giorgio Consolati](https://www.giorgioconsolati.eu/).
+[Emma Halnan](https://emmahalnan.co.uk/).
 Previous teachers include
+[Giorgio Consolati](https://www.giorgioconsolati.eu/),
 [Christian Paquette](https://christianpaquette.com/) and
 Laura Chambers.
 
