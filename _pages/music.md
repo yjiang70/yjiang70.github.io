@@ -22,9 +22,19 @@ if you find something written for the flute
 ([one](https://imslp.org/wiki/18_Canons_M%C3%A9lodieux,_TWV_40:118-123_(Telemann,_Georg_Philipp))
 of my favourite duets to sightread).
 
-Recent Performances
+Concerts
 =====
 
+### Upcoming
+* November 22, 2025, 8:00 pm --- Cambridge University Orchestra ---
+[Rachmaninoff Piano Concert No. 1](https://www.cmp.cam.ac.uk/events/event/item/rachmaninov-piano-concerto-no-1/)
+
+### Past
+* November 18, 2025 --- Cambridge CMP Lunchtime Concert --- Jean Francaix: Wind Quartet
+* October 25, 2025 --- Cambridge University Orchestra ---
+[Mendelssohn's A Midsummer Night's Dream](https://www.cmp.cam.ac.uk/events/event/item/mendelssohns-a-midsummer-nights-dream/)
+
+### JHU
 * Sergei Prokofiev: Flute Sonata, Op.94 ---
 movements 1 and 2 performed
 spring 2024 with Sunwoo Shin
