@@ -23,7 +23,7 @@ In the 2025-26 academic year, I am performing with the
 as principal flute (upcoming [concerts](https://www.cmp.cam.ac.uk/events/ensemble/cambridge-university-orchestra-cuo/)),
 as well as with my woodwind quartet *Senza Corno* as a part of
 the [Instrumental Award Scheme](https://www.cmp.cam.ac.uk/opportunities/entry/ias/) at Cambridge.
-During my undergrad, I frequently performend with the [Hopkins Symphony Orchestra](https://studentaffairs.jhu.edu/hso/);
+During my undergrad, I frequently performed with the [Hopkins Symphony Orchestra](https://studentaffairs.jhu.edu/hso/);
 here is a [recording](files/reinecke.mp3) of my performance of
 the first movement of Reinecke's concerto with the Hopkins Symphony Orchestra
 as one of the winners of the concerto competition in spring 2022.
