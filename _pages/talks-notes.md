@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here are some notes that I have written up for some talks that I gave
+Here are some notes that I wrote up for some talks that I gave
 in undergrad; use with discretion as mistakes abound.
 
 Talks
