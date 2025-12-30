@@ -13,11 +13,11 @@ at the University of Cambridge.
 I am still developing my math interests ---
 right now I particularly enjoy learning about
 algebraic topology, algebraic geometry and category theory.
-I used to organize the 
-[math club and undergrad seminar](https://sites.google.com/view/jhu-mathclub/)
-at JHU.
+I did my undergrad at Johns Hopkins University,
+where I organized the 
+[math club and undergrad seminar](https://sites.google.com/view/jhu-mathclub/).
 
-Outside of math, I am an [amateur](https://www.etymonline.com/word/amateur) [flautist](/music).
+Outside of math(s), I am an [amateur](https://www.etymonline.com/word/amateur) [flautist](/music).
 In the 2025-26 academic year, I am performing with the
 [Cambridge University Orchestra](https://www.cmp.cam.ac.uk/opportunities/entry/cambridge-university-orchestra/)
 as principal flute (upcoming [concerts](https://www.cmp.cam.ac.uk/events/ensemble/cambridge-university-orchestra-cuo/)),
