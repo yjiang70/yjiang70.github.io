@@ -11,7 +11,7 @@ model categories, enriched categories, and \\((\infty,1)\\)-categories with a fo
 on understanding homotopy limits and colimits.
 I extended this reading project into a (expository) bachelor's thesis
 advised by [Emily Riehl](https://emilyriehl.github.io/).
-Here is a *very rough* [draft](/files/ug-thesis-draft), likely riddled with typos and mistakes
+Here is a *very rough* [draft](/files/ug-thesis-draft.pdf), likely riddled with typos and mistakes
 (read at your own peril!).
 
 In summer 2023, I participated in the
