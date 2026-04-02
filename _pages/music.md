@@ -15,11 +15,11 @@ Previous teachers include
 [Christian Paquette](https://christianpaquette.com/) and
 Laura Chambers.
 
-I love playing chamber music --- please reach out
-if you want to play together!
-Here is
-[one](https://imslp.org/wiki/18_Canons_M%C3%A9lodieux,_TWV_40:118-123_(Telemann,_Georg_Philipp))
-of my favourite duets to sightread.
+<!-- I love playing chamber music --- please reach out -->
+<!-- if you want to play together! -->
+<!-- Here is -->
+<!-- [one](https://imslp.org/wiki/18_Canons_M%C3%A9lodieux,_TWV_40:118-123_(Telemann,_Georg_Philipp)) -->
+<!-- of my favourite duets to sightread. -->
 
 Concerts
 =====
