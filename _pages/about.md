@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
-I'm Yoyo, and I am currently studying the Part III mathematics course
-at the University of Cambridge.
-I am still developing my math interests ---
-right now I particularly enjoy learning about
-algebraic topology, algebraic geometry and category theory.
+Hello! I'm Yoyo.
+I am currently a Part III mathematics student
+at the University of Cambridge,
+and I will be starting as a PhD student at UC Berkeley in Fall 2026.
 I did my undergrad at Johns Hopkins University,
 where I organized the 
 [math club and undergrad seminar](https://sites.google.com/view/jhu-mathclub/).
