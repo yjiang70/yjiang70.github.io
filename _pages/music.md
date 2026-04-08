@@ -13,7 +13,7 @@ I am currently studying with
 Previous teachers include
 [Giorgio Consolati](https://www.giorgioconsolati.eu/),
 [Christian Paquette](https://christianpaquette.com/) and
-Laura Chambers.
+[Laura Chambers](https://www.londonsymphonia.ca/laura-chambers).
 
 <!-- I love playing chamber music --- please reach out -->
 <!-- if you want to play together! -->
@@ -42,23 +42,22 @@ Concerts
 [Mendelssohn's A Midsummer Night's Dream](https://www.cmp.cam.ac.uk/events/event/item/mendelssohns-a-midsummer-nights-dream/)
 
 ### JHU
-* Sergei Prokofiev: Flute Sonata, Op.94 ---
-movements 1 and 2 performed
-spring 2024 with Sunwoo Shin
+<!-- * Sergei Prokofiev: Flute Sonata, Op.94 --- -->
+<!-- movements 1 and 2 performed -->
+<!-- spring 2024 with Sunwoo Shin -->
 
-* Louise Farrenc: Trio for Flute, Cello, and Piano, Op.45 ---
-movements 2 and 3 [performed](https://youtu.be/DaXAw6FfU9U?si=-xyheUgkOUzlGY2s)
-spring 2024 with Jeevika Setzer and Boaz Goldberg
+<!-- * Louise Farrenc: Trio for Flute, Cello, and Piano, Op.45 --- -->
+<!-- movements 2 and 3 [performed](https://youtu.be/DaXAw6FfU9U?si=-xyheUgkOUzlGY2s) -->
+<!-- spring 2024 with Jeevika Setzer and Boaz Goldberg -->
 
-* Carl Reinecke: Flute Concerto, Op. 283 ---
-[performed](/files/reinecke.mp3) (audio only) spring 2022
-with the [Hopkins Symphony Orchestra](https://studentaffairs.jhu.edu/hso/)
+* [Hopkins Symphony Orchestra](https://studentaffairs.jhu.edu/hso/) ---
+Carl Reinecke: Flute Concerto, Op. 283, Movement 1 ([audio](/files/reinecke.mp3))
 
-* Darius Milhaud: La Cheminée du roi René, Op. 205 ---
-wind quintet [performed](https://youtu.be/rTv9hZAg5w4?si=NKlfZ4ZRaNm5RFCu) spring 2022
-as a part of the [Homewood Chamber Music Seminar](https://www.youtube.com/@jhuhomewoodchambermusicsem9783/featured)
+<!-- * Darius Milhaud: La Cheminée du roi René, Op. 205 --- -->
+<!-- wind quintet [performed](https://youtu.be/rTv9hZAg5w4?si=NKlfZ4ZRaNm5RFCu) spring 2022 -->
+<!-- as a part of the [Homewood Chamber Music Seminar](https://www.youtube.com/@jhuhomewoodchambermusicsem9783/featured) -->
 
-* Francis Poulenc: Flute Sonata, FP 164 ---
-[performed](https://youtu.be/NQ4lbiDNvlM?si=VDGPXtLvKcYagSBN)
-fall 2021 with Eric Lian as a part of 
-the [Homewood Chamber Music Seminar](https://www.youtube.com/@jhuhomewoodchambermusicsem9783/featured)
+<!-- * Francis Poulenc: Flute Sonata, FP 164 --- -->
+<!-- [performed](https://youtu.be/NQ4lbiDNvlM?si=VDGPXtLvKcYagSBN) -->
+<!-- fall 2021 with Eric Lian as a part of --> 
+<!-- the [Homewood Chamber Music Seminar](https://www.youtube.com/@jhuhomewoodchambermusicsem9783/featured) -->
