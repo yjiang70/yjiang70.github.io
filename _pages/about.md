@@ -17,7 +17,7 @@ I did my undergrad at Johns Hopkins University,
 where I organized the 
 [math club and undergrad seminar](https://sites.google.com/view/jhu-mathclub/).
 
-Outside of math(s), I am an [amateur](https://www.etymonline.com/word/amateur) [flautist](/music).
+Outside of math(s), I enjoy playing the [flute](/music).
 In the 2025-26 academic year, I am performing with the
 [Cambridge University Orchestra](https://www.cmp.cam.ac.uk/opportunities/entry/cambridge-university-orchestra/)
 as principal flute (upcoming [concerts](https://www.cmp.cam.ac.uk/events/ensemble/cambridge-university-orchestra-cuo/)),
